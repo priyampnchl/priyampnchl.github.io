@@ -3,7 +3,7 @@ rol = "Aspiring Embedded Software Developer"
 email = "priyam.panchal.65@gmail.com"
 location = "Ottawa, Ontario, Canada"
 avatar = "./config/assets/avatars/my-avatar.png"
-username = "richardhanrick" # <-- github user name
+username = "priyampnchl" # <-- github user name
 googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d359536.9903263223!2d-76.13056976365858!3d45.25016395994554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce05b25f5113af%3A0x8a6a51e131dd15ed!2sOttawa%2C%20ON!5e0!3m2!1sen!2sca!4v1710701637735!5m2!1sen!2sca" 
 presentation = """
 A self-driven, low-level development enthusiast with a rich background in Embedded Systems with ARM, STM32, ESP32, Atmel and mechatronics and C++, Python, Robotics and Automation projects, aiming for an Embedded Software Engineering role delivering innovative solutions with initiative and focus, with a results-driven approach.
