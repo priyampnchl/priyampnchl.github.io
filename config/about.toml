@@ -1,8 +1,6 @@
 name = "Priyam Panchal"
 rol = "Aspiring Embedded Software Developer"
 email = "priyam.panchal.65@gmail.com"
-phone = "+1 (***) ***-****"
-birthday = "******** *, 19**"
 location = "Ottawa, Ontario, Canada"
 avatar = "./config/assets/avatars/my-avatar.png"
 username = "richardhanrick" # <-- github user name
